@@ -20,6 +20,7 @@
 -  [x] 修复了fmwww的负坐标传送bug
 -  [x] 增加了黑名单 ， 遇到不想看见的人就屏蔽他吧！！
 -  [x] 去除了跟随指令
+-  [x] 添加链接可点击  (From [华仔]( https://www.zjh336.cn/))
 
 [Demo地址](http://kedou.xinsuan.xyz/)
 
